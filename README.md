@@ -1,16 +1,6 @@
 # fourpiconeword
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/AbdurazzoqAbdugafforov/Game/assets/134942447/58cfbcf3-c7a8-406d-ba13-4d3ebec747b6" width="250" haight="600"/>
+<img src="https://github.com/AbdurazzoqAbdugafforov/Game/assets/134942447/78b08174-c4fa-43ef-94ac-44005c8f9d20" width="250" haight="600"/>
+<img src="https://github.com/AbdurazzoqAbdugafforov/Game/assets/134942447/e6ba5757-b6db-4ef0-852b-21c33063429a" width="250" haight="600"/>
+<img src="https://github.com/AbdurazzoqAbdugafforov/Game/assets/134942447/4e51079f-49b2-409f-844c-64bd2c9d4326" width="250" haight="600"/>
