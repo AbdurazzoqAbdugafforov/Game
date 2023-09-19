@@ -8,14 +8,15 @@ class CommonImage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      decoration: BoxDecoration(
-        color: const Color(0xFF29344F),
-        borderRadius: BorderRadius.circular(6),
-      ),
-      padding: const EdgeInsets.all(10),
-      width: 180,
-      height: 180,
-      child: Image.asset(image, fit: BoxFit.cover),
-    );
+        decoration: BoxDecoration(
+            color: const Color(0xFF29344F),
+            borderRadius: BorderRadius.circular(6)),
+        padding: const EdgeInsets.all(10),
+        width: 150,
+        height: 150,
+        child: Image.asset(
+          image,
+          fit: BoxFit.cover,
+        ));
   }
 }
