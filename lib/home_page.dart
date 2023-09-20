@@ -81,6 +81,7 @@ class _HomePageState extends State<HomePage> {
   void _goToNextQuestion(BuildContext context) async {
     if (i + 1 >= questions.length) {
       showDialog(
+        barrierDismissible: false,
         context: context,
         builder: (context) {
           return Dialog(
