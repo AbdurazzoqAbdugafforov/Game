@@ -1,6 +1,6 @@
 # fourpiconeword
 
-<img src="https://github.com/AbdurazzoqAbdugafforov/Game/assets/134942447/58cfbcf3-c7a8-406d-ba13-4d3ebec747b6" width="250" haight="600"/>
-<img src="https://github.com/AbdurazzoqAbdugafforov/Game/assets/134942447/78b08174-c4fa-43ef-94ac-44005c8f9d20" width="250" haight="600"/>
-<img src="https://github.com/AbdurazzoqAbdugafforov/Game/assets/134942447/e6ba5757-b6db-4ef0-852b-21c33063429a" width="250" haight="600"/>
-<img src="https://github.com/AbdurazzoqAbdugafforov/Game/assets/134942447/4e51079f-49b2-409f-844c-64bd2c9d4326" width="250" haight="600"/>
+<img src="https://github.com/AbdurazzoqAbdugafforov/Game/assets/134942447/b3a1a164-8eec-4caf-a725-2e6a716aa43c" width="250" haight="600"/>
+<img src="https://github.com/AbdurazzoqAbdugafforov/Game/assets/134942447/f1c8ff08-e761-4422-9ed2-f31533447c36" width="250" haight="600"/>
+<img src="https://github.com/AbdurazzoqAbdugafforov/Game/assets/134942447/c00e9653-fcf5-4c6c-8ec4-641f5df6029a" width="250" haight="600"/>
+<img src="https://github.com/AbdurazzoqAbdugafforov/Game/assets/134942447/65f4c27b-a81b-43ea-991a-9cab15be16a5" width="250" haight="600"/>
